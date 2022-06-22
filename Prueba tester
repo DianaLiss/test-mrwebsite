@@ -113,7 +113,7 @@
 
 	  lastResult.style.backgroundColor = 'white';
 
-	  randomNumber = Math.floor(Math.random() * 10) + 1; //faltaba el *10
+	  randomNumber = Math.floor(Math.random() * 10) + 1; //faltaba *10
   }
 </script>
 </html>
